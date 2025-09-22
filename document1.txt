@@ -1,4 +1,13 @@
 def partition(l, r, nums):
+    #예아
+    #예아
+    #예아
+    #예아
+    #예아
+    #예아
+    #예아
+    #예아
+    #예아
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
     for i in range(l, r):
