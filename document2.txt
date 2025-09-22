@@ -1,7 +1,19 @@
 // C program for Merge Sort
 #include <stdio.h>
 #include <stdlib.h>
-
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
+#뭘 수정해야할지 모르겠다.
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
 // Second subarray is arr[m+1..r]
