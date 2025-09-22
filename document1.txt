@@ -1,21 +1,17 @@
 def partition(l, r, nums):
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
-    #Yea-ah
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
+    #good
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
     for i in range(l, r):
