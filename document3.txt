@@ -1,1 +1,1 @@
-print("%s","아무렇게나 입력하세요.");
+Department of Computer Science & Engineering.
